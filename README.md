@@ -1,5 +1,5 @@
 # Jogos desenvolvidos usando Python
 
-Jogos de adivinhação em python
+Jogo de adivinhação em python
 
 Para executar, basta executa o script playgamer e  informa o numero da opção do jogo que dejesa jogar
